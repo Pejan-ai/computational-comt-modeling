@@ -1,0 +1,11 @@
+comt-computational-model/
+│
+├── data/
+│   ├── README.md
+│
+├── notebooks/
+│
+├── src/
+│
+├── README.md
+└── requirements.txt
